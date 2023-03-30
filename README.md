@@ -1,19 +1,19 @@
 # Amazon-Clone
 
 # Front end Programming language used - 
-*HTML 
-*CSS 
-*Python 
-*JAVA
+* HTML 
+* CSS 
+* Python 
+* JAVA
 
 # Pipeline for connections 
-*JDBC
+* JDBC
 
 # Back end Programming language used -
-*JAVA
-*Python
+* JAVA
+* Python
 
 # Storage Server
-*My-SQL
-*Ms-SQL
-*MangoDB
+* My-SQL
+* Ms-SQL
+* MangoDB
