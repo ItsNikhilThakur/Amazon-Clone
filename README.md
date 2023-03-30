@@ -8,6 +8,7 @@
 
 # Pipeline for connections 
 * JDBC
+* ODBC
 
 # Back end Programming language used -
 * JAVA
